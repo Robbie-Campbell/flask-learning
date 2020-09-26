@@ -7,7 +7,7 @@
  
  I can never seem to quite take it in so this repo is another tutorial before i decide to make my own website without a tutorial:
 
-> This was only put onto GH so i could clone the repo over to my laptop, nothing of real interest to see here. ¯\_(ツ)_/¯
+> This was only put onto GH so i could clone the repo over to my laptop, nothing of real interest to see here.    ¯\_(ツ)_/¯
 
 #### You might just want to skip this repo to be honest!
 
